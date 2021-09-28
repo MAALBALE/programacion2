@@ -1,0 +1,11 @@
+
+package loro;
+
+
+public class Principal {
+    public static void main(String[] args) {
+        Loro l1 = new Loro();
+        
+        l1.setVisible(true);
+    }
+}
